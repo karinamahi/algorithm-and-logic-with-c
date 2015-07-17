@@ -1,0 +1,4 @@
+Joao 8 5 6
+Maria 10 8 9
+Felipe 10 10 8
+Marilia 4 7 6
